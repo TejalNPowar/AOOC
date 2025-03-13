@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Stack",
+      "request": "launch",
+      "mainClass": "Stack",
+      "projectName": "AOOC(java)_b4e731f5"
+    },
+    {
+      "type": "java",
+      "name": "Stackk",
+      "request": "launch",
+      "mainClass": "Stackk",
+      "projectName": "AOOC(java)_b4e731f5"
+    },
+    {
+      "type": "java",
+      "name": "recArea",
+      "request": "launch",
+      "mainClass": "recArea",
+      "projectName": "AOOC(java)_b4e731f5"
+    },
+    {
+      "type": "java",
+      "name": "Emplo",
+      "request": "launch",
+      "mainClass": "Emplo",
+      "projectName": "AOOC(java)_b4e731f5"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/TEJAL POWAR/Desktop/AOOC(java)",
+      "program": "c:/Users/TEJAL POWAR/Desktop/AOOC(java)/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
